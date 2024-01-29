@@ -1,36 +1,29 @@
-# Nome do Projeto
+<h1 align="center">To-Do List React + TS</h1>
 
-To-Do List feita utilizando REACT + TS com o intuito de adicionar uma nova tarefa para se fazer ao longo do dia, alterar dados da tarefa e deletar os dados da tarefa
+To-Do List feita utilizando REACT + TS com o intuito de adicionar novas tarefas para se fazer ao longo do dia.
 
 ## Índice
 
-- [Visão Geral](#visão-geral)
+- [Descrição](#descrição)
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
-## Visão Geral
-
-Breve explicação do que é o projeto, seu propósito e suas principais funcionalidades.
+## Descrição 
+Esse projeto tem o intuito de facilitar a organização de tarefas com curto prazo de conclusão, podendo-se: 
+- Inserir uma nova tarefa.
+- Alterar os dados de uma tarefa.
+- Deletar uma tarefa.
 
 ## Pré-requisitos
 
-Liste todos os pré-requisitos necessários para utilizar o seu projeto. Isso pode incluir dependências de software, bibliotecas ou configurações específicas.
+ - Ter o Vite e instalado na maquina
+ - Ter o React instalado na maquina
 
+
+## Instalação
 ```bash
-# Exemplos de comandos de instalação
-npm install
-
-
-# Exemplos de comandos de instalação
-npm install
-
-
-# Exemplos de comandos de uso
-npm start
-
-
-
+ git clone https://github.com/KaikeCarmona/Todo_List_TS.git
+ code .
+ npm run dev
+```
 
