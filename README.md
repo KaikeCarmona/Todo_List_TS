@@ -1,5 +1,5 @@
-<h1 align="center">To-Do List React + TS</h1>
 
+<h1 align="center">To-Do List React + TS</h1>
 <p align="center">
   <a href="#uso">uso</a> |
   <a href="#contribuição">contribuição</a> |
