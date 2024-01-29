@@ -19,6 +19,9 @@ Breve explicação do que é o projeto, seu propósito e suas principais funcion
 
 Liste todos os pré-requisitos necessários para utilizar o seu projeto. Isso pode incluir dependências de software, bibliotecas ou configurações específicas.
 
+```bash
+# Exemplos de comandos de instalação
+npm install
 
 # Exemplos de comandos de instalação
 npm install
