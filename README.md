@@ -21,6 +21,9 @@ Esse projeto tem o intuito de facilitar a organização de tarefas com curto pra
 - Alterar os dados de uma tarefa.
 - Deletar uma tarefa.
 
+## ✅ Demonstração 
+ 
+
 ## ⚙ Pré-requisitos
  - Ter o Git instalado na maquina
  - Ter o Vite e instalado na maquina
