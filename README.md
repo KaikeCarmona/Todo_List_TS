@@ -2,13 +2,8 @@
 
 To-Do List feita utilizando REACT + TS com o intuito de adicionar novas tarefas para se fazer ao longo do dia.
 
-## Índice
 
-[<h2 align="center">Visão Geral</h2>](#visão-geral) | [<h2 align="center">Pré-requisitos</h2>](#pré-requisitos) | [<h2 align="center">Instalação</h2>](#instalação) | [Uso](#uso) | [Contribuição](#contribuição) | [Licença](#licença)
-
-- [Descrição](#descrição)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
+[<h2 align="center">visão geral</h2>](#visão-geral) | [<h2 align="center">pré-requisitos</h2>](#pré-requisitos) | [<h2 align="center">instalação</h2>](#instalação) | [uso](#uso) | [contribuição](#contribuição) | [licença](#licença)
 
 ## Descrição 
 Esse projeto tem o intuito de facilitar a organização de tarefas com curto prazo de conclusão, podendo-se: 
