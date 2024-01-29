@@ -1,6 +1,6 @@
 # Nome do Projeto
 
-Descrição concisa do seu projeto.
+To-Do List feita utilizando REACT + TS com o intuito de adicionar uma nova tarefa para se fazer ao longo do dia, alterar dados da tarefa e deletar os dados da tarefa
 
 ## Índice
 
