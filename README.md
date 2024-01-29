@@ -5,6 +5,10 @@
   <a href="#contribuição">contribuição</a> |
   <a href="#licença">licença</a>
 </p>
+
+---
+
+**Finalizado**
  
 
 To-Do List feita utilizando REACT + TS com o intuito de adicionar novas tarefas para se fazer ao longo do dia.
