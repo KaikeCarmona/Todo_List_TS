@@ -4,6 +4,8 @@ To-Do List feita utilizando REACT + TS com o intuito de adicionar novas tarefas 
 
 ## Índice
 
+[<h2 align="center">Visão Geral</h2>](#visão-geral) | [<h2 align="center">Pré-requisitos</h2>](#pré-requisitos) | [<h2 align="center">Instalação</h2>](#instalação) | [Uso](#uso) | [Contribuição](#contribuição) | [Licença](#licença)
+
 - [Descrição](#descrição)
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
