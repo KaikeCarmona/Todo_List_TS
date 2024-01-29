@@ -1,8 +1,10 @@
-<h1 align="center" display="flex">To-Do List React + TS</h1>
+<h1 align="center">To-Do List React + TS</h1>
 
-
-
-[uso](#uso) | [contribuição](#contribuição) | [licença](#licença)
+<p align="center">
+  <a href="#uso">uso</a> |
+  <a href="#contribuição">contribuição</a> |
+  <a href="#licença">licença</a>
+</p>
  
 
 To-Do List feita utilizando REACT + TS com o intuito de adicionar novas tarefas para se fazer ao longo do dia.
