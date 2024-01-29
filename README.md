@@ -23,9 +23,13 @@ Liste todos os pré-requisitos necessários para utilizar o seu projeto. Isso po
 # Exemplos de comandos de instalação
 npm install
 
+
+```bash
 # Exemplos de comandos de instalação
 npm install
 
+
+```bash 
 # Exemplos de comandos de uso
 npm start
 
